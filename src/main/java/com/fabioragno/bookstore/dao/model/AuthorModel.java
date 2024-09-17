@@ -2,14 +2,12 @@ package com.fabioragno.bookstore.dao.model;
 
 import com.fabioragno.bookstore.dto.response.AuthorResponse;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.List;
-import java.util.Set;
 
 @Getter
 @Setter

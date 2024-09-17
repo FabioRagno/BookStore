@@ -2,7 +2,6 @@ package com.fabioragno.bookstore.dao.model;
 
 import com.fabioragno.bookstore.dto.response.BookResponse;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

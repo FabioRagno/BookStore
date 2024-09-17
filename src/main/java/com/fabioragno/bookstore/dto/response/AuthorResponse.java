@@ -1,14 +1,10 @@
 package com.fabioragno.bookstore.dto.response;
 
-import com.fabioragno.bookstore.dao.model.BookModel;
-import jakarta.persistence.FetchType;
-import jakarta.persistence.OneToMany;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.List;
-import java.util.Set;
 
 @Getter
 @Setter
